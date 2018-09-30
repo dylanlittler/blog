@@ -8,7 +8,7 @@
 	$error = "";
 	
 	// include code for comments box
-    include 'comments.php';
+    //include 'comments.php';
 
     // retrieve id for post from URL
     if(isset($_GET['id'])){
